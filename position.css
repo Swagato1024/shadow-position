@@ -1,0 +1,22 @@
+* {
+  border: 1px solid black;
+}
+.box {
+  height: 100px;
+  width: 100px;
+  border: 2px solid red;
+}
+
+#box1 {
+  position: relative;
+  left: 700px;
+  top: 5px;
+}
+
+
+.content {
+  border: 2px solid green;
+  width: 60%;
+  position: relative;
+  left: 200px
+}

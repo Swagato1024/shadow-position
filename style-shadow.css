@@ -1,0 +1,7 @@
+div {
+  width: 10%;
+  aspect-ratio: 6;
+  border: 1px solid black;
+  box-shadow: 5px 5px 3px darkblue;
+  padding-left: 5%;
+}
